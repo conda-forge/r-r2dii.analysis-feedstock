@@ -25,7 +25,7 @@ requirements:
     - {{ posix }}zip               # [win]
     - cross-r-base {{ r_base }}    # [build_platform != target_platform]
   host:
-    - r-base
+    - r-base 
     - r-dplyr >=0.8.5
     - r-glue
     - r-magrittr
