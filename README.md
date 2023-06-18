@@ -1,11 +1,11 @@
-About r-r2dii.analysis
-======================
+About r-r2dii.analysis-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r2dii.analysis-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/2DegreesInvesting/r2dii.analysis
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r2dii.analysis-feedstock/blob/main/LICENSE.txt)
 
 Summary: These tools help you to assess if a corporate lending portfolio aligns with climate goals. They summarize key climate indicators attributed to the portfolio (e.g. production, emission factors), and calculate alignment targets based on climate scenarios. They implement in R the last step of the free software 'PACTA' (Paris Agreement Capital Transition Assessment; <https://2degrees-investing.org/>). Financial institutions use 'PACTA' to study how their capital allocation decisions align with climate change mitigation goals.
 
