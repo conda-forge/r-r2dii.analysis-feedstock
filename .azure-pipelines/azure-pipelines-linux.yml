@@ -12,12 +12,12 @@ jobs:
         CONFIG: linux_64_r_base3.6.3
         UPLOAD_PACKAGES: 'True'
         DOCKER_IMAGE: quay.io/condaforge/linux-anvil-cos7-x86_64
-      linux_64_r_base4.0:
-        CONFIG: linux_64_r_base4.0
+      linux_64_r_base4.3:
+        CONFIG: linux_64_r_base4.3
         UPLOAD_PACKAGES: 'True'
         DOCKER_IMAGE: quay.io/condaforge/linux-anvil-cos7-x86_64
-      linux_64_r_base4.1:
-        CONFIG: linux_64_r_base4.1
+      linux_64_r_base4.4:
+        CONFIG: linux_64_r_base4.4
         UPLOAD_PACKAGES: 'True'
         DOCKER_IMAGE: quay.io/condaforge/linux-anvil-cos7-x86_64
   timeoutInMinutes: 360
