@@ -1,4 +1,4 @@
-{% set version = "0.5.0" %}
+{% set version = "0.5.1" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/r2dii.analysis_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/r2dii.analysis/r2dii.analysis_{{ version }}.tar.gz
-  sha256: 62820ad0cc57514e0f1d3b70d1c7abd29fe382c6c377349c1cac0e9fbd7cc544
+  sha256: 0d59ec211ab406a5d3a4249149e99e5d2f49b68867ad62a3e872658dbe368dfb
 
 build:
   number: 0
